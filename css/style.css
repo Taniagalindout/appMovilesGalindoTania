@@ -1,0 +1,23 @@
+.whatsapp-icon{
+    position: fixed;
+     right: 20px;
+      bottom: 20px;
+}
+.footer-bg{
+    background-color:#4c416e;
+}
+.titulo{
+   color: #160e56;
+}
+.hr-color{
+    background-color: #2a2cb0;
+}
+.footer-text{
+    color: white;
+}
+.botones{
+    background-color: #160e56;
+}
+.log{
+    text-align: right;
+}
